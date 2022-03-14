@@ -1,2 +1,3 @@
 # Certificates
-Certificates from online courses
+
+Completion certificates from the online courses I took.
